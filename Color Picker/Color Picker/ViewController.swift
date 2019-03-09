@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Color Picker
 //
-//  Created by Sheyla Astete on 4/19/18.
+//  Created by Sheyla Astete.
 //  Copyright © 2018 tech innovator. All rights reserved.
 //
 
