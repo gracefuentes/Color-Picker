@@ -3,7 +3,7 @@
 //  Color Picker
 //
 //  Created by Sheyla Astete.
-//  Copyright © 2018 tech innovator. All rights reserved.
+//  Copyright © 2019 tech innovator. All rights reserved.
 //
 
 import UIKit
